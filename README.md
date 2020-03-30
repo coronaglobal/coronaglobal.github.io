@@ -1,2 +1,1 @@
-# indiacovid-19.github.io
-Github pages Repo to redirect on
+Github pages Repo to redirect on https://coronaindia.github.io/
